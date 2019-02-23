@@ -17,16 +17,16 @@
 
 #### 2. 数据说明  
 
-- 项目给的数据集    
+- rawdata中的train-set.data和validation-set.data    
 
-- 额外使用的数据：  
+- 其它数据：  
 
   - 来源：科学空间（http://spaces.ac.cn）
 
     词向量说明：
 
     - 由800万篇来自各个微信公众号平台的文章所训练出来
-    - 词向量使用Gensim训练，模型为Skip-Gram + Huffman Softmax，维度为256，窗口大小是5，迭代次数位10次
+    - 词向量使用Gensim训练，模型为Skip-Gram + Huffman Softmax，维度为256，窗口大小是5，迭代次数为10次
 
     大小：约1G
 
