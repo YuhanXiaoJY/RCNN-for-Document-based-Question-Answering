@@ -1,6 +1,6 @@
 ### Recurrent Convolutional Neural Network  for Document-based Question Answering
 
-**Xiao Yuhan**
+**Yuhan Xiao**
 
 ------
 
